@@ -1,0 +1,10 @@
+data/
+*.zip
+*.parquet
+*.pt
+*.bin
+*.ckpt
+*.pyc
+
+.venv/
+.env
